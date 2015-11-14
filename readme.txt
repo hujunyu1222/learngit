@@ -6,3 +6,4 @@ Git track changes of files.
 Create a new branch which is called dev
 Create a new branch is quick and quick
 new
+stash can save the workplace temporarily
