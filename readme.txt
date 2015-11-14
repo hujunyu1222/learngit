@@ -4,3 +4,4 @@ Git is so convenient!
 Git has a mutable index called stage
 Git track changes of files.
 Create a new branch which is called dev
+Create a new branch is quick & simple
